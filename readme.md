@@ -832,6 +832,6 @@ In the Airflow web interface:
 
 ## Contact Information
 
-📧 Email: maddiezhengorz@gmail.com
+📧 Email: msalamdata@gmail.com
 
 For any queries, feel free to reach out!
